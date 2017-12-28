@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile version="3.0" client="site">
-	<name>English (United States)</name>
-	<tag>en-US</tag>
-	<version>3.2.3.1</version>
-	<creationDate>2014-2-20</creationDate>
-	<author>Aussiesrus - Australia</author>
-	<authorEmail>admin@aussiesrus.com.au</authorEmail>
-	<authorUrl>www.aussiesrus.com.au</authorUrl>
-	<copyright>Copyright (C) 2005 - 2014 Open Source Matters. All rights reserved.</copyright>
+<metafile version="3.8" client="site">
+	<name>English (en-US)</name>
+	<version>3.8.3.1</version>
+	<creationDate>December 2017</creationDate>
+	<author>stevec4</author>
+	<authorEmail>stevec4@comcast.net</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<copyright>Copyright (C) 2005 - 2017 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>en-US site language</description>
 	<metadata>
@@ -16,6 +15,8 @@
 		<rtl>0</rtl>
 		<locale>en_US.utf8, en_US.UTF-8, en_US, eng_US, en, english, english-us, us, usa, american, america, american, us, america, america</locale>
 		<firstDay>1</firstDay>
+		<weekEnd>0,6</weekEnd>
+		<calendar>gregorian</calendar>
 	</metadata>
 	<params />
 </metafile>
